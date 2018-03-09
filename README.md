@@ -1,2 +1,2 @@
 # NetworkModule
-P2P network
+P2P network.
